@@ -11,5 +11,5 @@ The service packs the result in the Api.ai webhook-compatible response JSON and 
 
 This is a chatbot for prediction of diseases given symptoms. Which we have integrated with messenger app.
 
-#Rathi folder 
+# Data Process 
 It has script to preprocess the data and also it has random forest classifier implimentation.
